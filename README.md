@@ -1,1 +1,1 @@
-# python_web
+# Estudos de Web Scraping em Python
